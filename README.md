@@ -1,2 +1,13 @@
+
 # Week1
-atp week 1 assignments
+
+This repository contains my Week 1 assignments and practice programs.
+
+## Topics Covered
+- Basics of JavaScript
+- Variables and Data Types
+- Conditions and Loops
+- Functions
+- Simple Problem Solving
+
+
